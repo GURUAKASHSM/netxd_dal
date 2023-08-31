@@ -1,6 +1,6 @@
 package customerinterface
 
-import customermodel "Netxd_Customer/Customer_DAL/Customer_Model"
+import customermodel "github.com/GURUAKASHSM/netxd_dal/Customer_Model"
 
 type ICustomer interface{
 	CreateCustomer(customer *customermodel.Customer)(*customermodel.CustomerResponse, error)
