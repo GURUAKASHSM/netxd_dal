@@ -1,8 +1,8 @@
 package customerservice
 
 import (
-	customerinterface "Netxd_Customer/Customer_DAL/Customer_Interface"
-	customermodel "Netxd_Customer/Customer_DAL/Customer_Model"
+	customerinterface "github.com/GURUAKASHSM/netxd_dal/Customer_Interface"
+	customermodel "github.com/GURUAKASHSM/netxd_dal/Customer_Model"
 	"context"
 	"fmt"
 	"time"
