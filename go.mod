@@ -1,4 +1,4 @@
-module github.com/GURUAKASHSM/netxd__dal
+module github.com/GURUAKASHSM/netxd_dal
 
 go 1.20
 
